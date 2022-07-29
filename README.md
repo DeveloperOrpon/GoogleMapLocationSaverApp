@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 * [x] User can show offline all data of saved location
 * [x] No limit to have the location
 * [x] User should log press to save the location
-* [] No Online Support
+* [ ] No Online Support
 The following **extensions** are implemented:
 
 * [ ] Custom colors palette selected
